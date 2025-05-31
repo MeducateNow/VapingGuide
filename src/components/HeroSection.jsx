@@ -55,7 +55,7 @@ function HeroSection() {
       <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
         <img
           className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"
-          src="https://images.pexels.com/photos/3683074/pexels-photo-3683074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          src="https://meducate.now/wp-content/uploads/2025/06/chiara-summer-gdWIfKcFKvU-unsplash.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
           alt="Healthcare professional consulting with patient"
         />
       </div>
