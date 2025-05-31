@@ -23,11 +23,11 @@ function Navbar({ onMenuClick }) {
               </button>
               
               <Link to="/" className="flex-shrink-0 flex items-center">
-                <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 text-primary-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <path d="M8 19h8a4 4 0 0 0 4-4 7 7 0 0 0-7-7h-1a7 7 0 0 0-7 7 4 4 0 0 0 4 4z"></path>
-                  <path d="M12 19v3"></path>
-                  <path d="M10 22h4"></path>
-                </svg>
+                <img 
+                  src="https://meducate.now/wp-content/uploads/2025/03/e86232313f30b5f415683324b354691b_1200_80-e1743765381299.webp" 
+                  alt="Meducate Logo" 
+                  className="h-8 w-auto"
+                />
                 <span className="ml-2 text-xl font-bold text-gray-900">ANVPA</span>
               </Link>
               

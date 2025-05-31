@@ -15,7 +15,13 @@ function HeroSection() {
             <polygon points="50,0 100,0 50,100 0,100" />
           </svg>
 
-          <main className="pt-10 mx-auto max-w-7xl px-4 sm:pt-12 sm:px-6 md:pt-16 lg:pt-20 lg:px-8 xl:pt-28">
+          <div className="pt-4 sm:pt-6">
+            <div className="flex justify-start items-center">
+              <span className="text-sm text-gray-500">Powered by Meducate</span>
+            </div>
+          </div>
+
+          <main className="pt-6 mx-auto max-w-7xl px-4 sm:pt-10 sm:px-6 md:pt-12 lg:pt-16 lg:px-8 xl:pt-20">
             <div className="sm:text-center lg:text-left">
               <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
                 <span className="block xl:inline">Australian Nicotine Vape</span>{' '}
